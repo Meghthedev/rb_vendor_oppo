@@ -344,4 +344,8 @@ PRODUCT_PACKAGES += \
     TimeService \
     ims \
     shutdownlistener \
-    imscmlibrary
+    imscmlibrary \
+    imssettings \
+    imscmlibrary \
+    qcnvitems \
+    qcrilhook
